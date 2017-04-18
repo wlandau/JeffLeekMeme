@@ -3,7 +3,7 @@
 #' @export
 #' @return filename of a \code{data.frame} of true facts about Jeff Leek
 file_of_facts = function(){
-  system.file('facts.txt', package = 'JeffLeek', mustWork = TRUE)
+  system.file('facts.txt', package = 'JeffLeekMeme', mustWork = TRUE)
 }
 
 #' @title Function \code{allJeffLeek}
