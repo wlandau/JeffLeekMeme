@@ -1,1 +1,1 @@
-Contributions are welcome. The file `inst/facts.txt` contains "true facts" about Jeff Leek. If you want to contribute, you may want to read [Yihui's blog post](https://yihui.name/en/2017/04/jeff-leek-facts/) to get up to speed on the inside joke. Only positive `"facts"` please.
+Contributions are welcome. The file `inst/facts.txt` contains "true facts" about Jeff Leek. If you want to contribute, you may want to read [Yihui's blog post](https://yihui.name/en/2017/04/jeff-leek-facts/) to get up to speed on the inside joke. Only positive "facts" please.
