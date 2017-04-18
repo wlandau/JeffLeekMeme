@@ -3,7 +3,7 @@
 #' @export
 #' @return filename of a \code{data.frame} of true facts about Jeff Leek
 file_of_facts = function(){
-  system.file("facts.txt", package = "JeffLeek", mustWork = TRUE)
+  system.file('facts.txt', package = 'JeffLeek', mustWork = TRUE)
 }
 
 #' @title Function \code{allJeffLeek}
@@ -25,10 +25,10 @@ JeffLeek = function(index = numeric(0)){
   records = countLines(filename)
   if(length(index) != 1 || !(index %in% seq_len(records)))
     index = sample.int(records, 1)
-  con = file(description = filename, open = "r")
-  fact = read.table(con, header = FALSE, sep = "|", skip = index - 1,
+  con = file(description = filename, open = 'r')
+  fact = read.table(con, header = FALSE, sep = '|', skip = index - 1,
     nrows = 1, stringsAsFactors = FALSE) %>%
-    lapply(FUN = str_trim, side = "both")
+    lapply(FUN = str_trim, side = 'both')
   close(con)
-  cat('"', fact[[2]], '" - ', fact[[1]], "\n", sep = "")
+  cat(fact[[2]], ' - ', fact[[1]], '\n', sep = "")
 }

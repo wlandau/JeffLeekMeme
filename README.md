@@ -6,13 +6,13 @@
 ```r
 > library(JeffLeek)
 > JeffLeek()
-"Correlation implies whatever Jeff Leek tells it to imply" - Kenny Shirley
+Correlation implies whatever Jeff Leek tells it to imply - Kenny Shirley
 > JeffLeek()
-"CRAN checks itself before it submits to Jeff Leek." - Branden Collingsworth
+CRAN checks itself before it submits to Jeff Leek. - Branden Collingsworth
 > JeffLeek()
-"Jeff Leek supports both vector and matrix machines." - Yihui Xie
+Jeff Leek supports both vector and matrix machines. - Yihui Xie
 > JeffLeek()
-"Git commits to Jeff Leek." - Martin J Frigaard
+Git commits to Jeff Leek. - Martin J Frigaard
 ```
 
 [Fork and pull](https://help.github.com/articles/about-pull-requests/) to contribute your own `"true facts"` to [inst/facts.txt](inst/facts.txt). Only positive facts please.
