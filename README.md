@@ -1,10 +1,10 @@
-[![Travis-CI Build Status](https://travis-ci.org/wlandau/JeffLeek.svg?branch=master)](https://travis-ci.org/wlandau/JeffLeek)
-[![codecov.io](https://codecov.io/github/wlandau/JeffLeek/coverage.svg?branch=master)](https://codecov.io/github/wlandau/JeffLeek?branch=master)
+[![Travis-CI Build Status](https://travis-ci.org/wlandau/JeffLeekMeme.svg?branch=master)](https://travis-ci.org/wlandau/JeffLeekMeme)
+[![codecov.io](https://codecov.io/github/wlandau/JeffLeekMeme/coverage.svg?branch=master)](https://codecov.io/github/wlandau/JeffLeekMeme?branch=master)
 
 [Jeff Leek](http://jtleek.com/) is an Associate Professor of Biostatistics and Oncology at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) and the author of several [books](http://jtleek.com/book/), [articles](http://jtleek.com/papers/), [talks](http://jtleek.com/talks/), [software packages](http://jtleek.com/software/), and [blog posts](http://simplystatistics.org/). You can find standard introductions [here](https://research.ncsu.edu/dsi/red-talks-leek/), [there](http://metrics.stanford.edu/about-us/bio/jeff-leek), and [everywhere](https://www.google.com/). But only [a tale of Twitter](https://yihui.name/en/2017/04/jeff-leek-facts/) reveals how he rose above the other übermenshces and became a legend.
 
 ```r
-> library(JeffLeek)
+> library(JeffLeekMeme)
 > JeffLeek()
 Correlation implies whatever Jeff Leek tells it to imply - Kenny Shirley
 > JeffLeek()
