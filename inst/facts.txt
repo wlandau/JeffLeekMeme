@@ -2,7 +2,7 @@ Julian Wolfson | Jeff Leek smooths densities with his bare hands.
 Thomas Lumley | Jeff Leek can do zero-fold crossvalidation.
 Yihui Xie | Jeff Leek supports both vector and matrix machines.
 Jeff Allen | stringsAsFactors defaults to FALSE in Jeff Leek’s presence.
-Roger Peng | Jeff can convert data frames to matrices with his mind.
+Roger D. Peng | Jeff can convert data frames to matrices with his mind.
 David Robinson | Jeff Leek’s error messages contain the cure for cancer. Unfortunately, he’s never seen one.
 David Robinson | Any statistic is a sufficient statistic when it’s Jeff Leek using it.
 Sean Kross | Jeff Leek has no need for the Tidyverse. Any data he touches tidies itself out of a combination of respect and fear.
@@ -26,3 +26,4 @@ Barbara Engelhardt | When Jeff Leek inverts a matrix, time actually reverses O(n
 Michael Hoffman	| Jeff Leek is the Uniformly Most Powerful Jeff.
 Mauricio Vargas	| Jeff Leek always obtains unbiased estimators.
 Sherri Rose | Jeff Leek knew that Slack was an acronym.
+Roger D. Peng | Jeff Leek is always caught up on @NSSDeviations.
