@@ -10,7 +10,7 @@ Joran Elias | All Jeff Leek sequences of random variables converge surely in pro
 Kenny Shirley | Correlation implies whatever Jeff Leek tells it to imply.
 Adam T. Austin | Jeff Leek doesn’t trade off bias and variance.
 Brian Caffo | Jeff Leek counted to infinity. Twice.
-Brian Caffo | Jeff Leek can make square root of 2 rational.
+Brian Caffo | Jeff Leek can make the square root of 2 rational.
 Brian Caffo | Jeff Leek can fit a regression line with one point. And get a variance.
 Martin J Frigaard | Jeff Leek once won a Kaggle competition, but was disqualified for using his abacus.
 Martin J Frigaard | Git commits to Jeff Leek.
@@ -27,3 +27,4 @@ Michael Hoffman	| Jeff Leek is the Uniformly Most Powerful Jeff.
 Mauricio Vargas	| Jeff Leek always obtains unbiased estimators.
 Sherri Rose | Jeff Leek knew that Slack was an acronym.
 Roger D. Peng | Jeff Leek is always caught up on @NSSDeviations.
+Jon Calder | Jeff Leek has never used a non-informative prior. Jeff Leek is well informed about everything.
