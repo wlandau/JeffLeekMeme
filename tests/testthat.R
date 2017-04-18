@@ -1,4 +1,4 @@
 library(testthat)
-library(JeffLeek)
+library(JeffLeekMeme)
 
-test_check("JeffLeek")
+test_check("JeffLeekMeme")

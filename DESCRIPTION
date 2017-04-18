@@ -1,4 +1,4 @@
-Package: JeffLeek
+Package: JeffLeekMeme
 Title: True Facts About Jeff Leek
 Version: 1.0.0
 Date: 2017-04-18
@@ -17,7 +17,7 @@ Imports:
     utils
 Suggests:
     testthat
-URL: https://github.com/wlandau/JeffLeek
-BugReports: https://github.com/wlandau/JeffLeek/issues
+URL: https://github.com/wlandau/JeffLeekMeme
+BugReports: https://github.com/wlandau/JeffLeekMeme/issues
 Encoding: UTF-8
 RoxygenNote: 6.0.1
