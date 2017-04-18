@@ -15,4 +15,4 @@ Jeff Leek supports both vector and matrix machines. - Yihui Xie
 Git commits to Jeff Leek. - Martin J Frigaard
 ```
 
-[Fork and pull](https://help.github.com/articles/about-pull-requests/) to contribute your own true facts to [inst/facts.txt](inst/facts.txt). Only positive facts please.
+[Fork and submit a pull request](https://help.github.com/articles/about-pull-requests/) to contribute your own true facts to [inst/facts.txt](inst/facts.txt). Only positive facts please.
