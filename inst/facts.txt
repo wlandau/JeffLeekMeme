@@ -1,0 +1,28 @@
+Julian Wolfson | Jeff Leek smooths densities with his bare hands.
+Thomas Lumley | Jeff Leek can do zero-fold crossvalidation.
+Yihui Xie | Jeff Leek supports both vector and matrix machines.
+Jeff Allen | stringsAsFactors defaults to FALSE in Jeff Leek’s presence.
+Roger Peng | Jeff can convert data frames to matrices with his mind.
+David Robinson | Jeff Leek’s error messages contain the cure for cancer. Unfortunately, he’s never seen one.
+David Robinson | Any statistic is a sufficient statistic when it’s Jeff Leek using it.
+Sean Kross | Jeff Leek has no need for the Tidyverse. Any data he touches tidies itself out of a combination of respect and fear.
+Joran Elias | All Jeff Leek sequences of random variables converge surely in probability.
+Kenny Shirley | Correlation implies whatever Jeff Leek tells it to imply.
+Adam T. Austin | Jeff Leek doesn’t trade off bias and variance.
+Brian Caffo | Jeff Leek counted to infinity. Twice.
+Brian Caffo | Jeff Leek can make square root of 2 rational.
+Brian Caffo | Jeff Leek can fit a regression line with one point. And get a variance.
+Martin J Frigaard | Jeff Leek once won a Kaggle competition, but was disqualified for using his abacus.
+Martin J Frigaard | Git commits to Jeff Leek.
+Martin J Frigaard | Jeff Leek can lift the curse of dimensionality by merely glancing at your data.
+Clark Fitzgerald  | All P-values computed by Jeff Leek are significant.
+Jeffrey B. Arnold | Singular matrices are so named because Jeff Leek is the only one who can invert them.
+Aaron Richter | Jeff Leek’s cubic splines are all linear.
+Chris Hamm | Jeef Leek supports S3 and S4 classes, at the same time.
+Timothee Poisot | When Jeff Leek uses <-<-, it tests for equality.
+Maio Cai | Jeff build regression models without endogeneity.
+Branden Collingsworth | CRAN checks itself before it submits to Jeff Leek.
+Barbara Engelhardt | When Jeff Leek inverts a matrix, time actually reverses O(n^3).
+Michael Hoffman	| Jeff Leek is the Uniformly Most Powerful Jeff.
+Mauricio Vargas	| Jeff Leek always obtains unbiased estimators.
+Sherri Rose | Jeff Leek knew that Slack was an acronym.
