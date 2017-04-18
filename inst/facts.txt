@@ -29,3 +29,4 @@ Sherri Rose | Jeff Leek knew that Slack was an acronym.
 Roger D. Peng | Jeff Leek is always caught up on @NSSDeviations.
 Jon Calder | Jeff Leek has never used a non-informative prior. Jeff Leek is well informed about everything.
 Julian Wolfson | Jeff Leek cannot be replicated, but he is fully reproducible.
+Will Landau | Jeff Leek invented the roundhouse distribution and defeated Chuck Norris.
