@@ -12,4 +12,3 @@ allJeffLeek()
 \description{
 Get a \code{data.frame} of true facts about Jeff Leek.
 }
-

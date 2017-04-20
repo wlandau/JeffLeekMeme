@@ -12,4 +12,3 @@ filename of a \code{data.frame} of true facts about Jeff Leek
 \description{
 Get the filename of a \code{data.frame} of true facts about Jeff Leek.
 }
-

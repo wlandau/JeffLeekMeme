@@ -17,7 +17,7 @@ Martin J Frigaard | Git commits to Jeff Leek.
 Martin J Frigaard | Jeff Leek can lift the curse of dimensionality by merely glancing at your data.
 Clark Fitzgerald  | All P-values computed by Jeff Leek are significant.
 Jeffrey B. Arnold | Singular matrices are so named because Jeff Leek is the only one who can invert them.
-Aaron Richter | Jeff Leek’s cubic splines are all linear.
+Aaron Richter | Jeff Leek's cubic splines are all linear.
 Chris Hamm | Jeef Leek supports S3 and S4 classes, at the same time.
 Timothee Poisot | When Jeff Leek uses <-<-, it tests for equality.
 Maio Cai | Jeff build regression models without endogeneity.

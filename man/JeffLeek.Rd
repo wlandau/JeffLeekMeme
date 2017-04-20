@@ -13,4 +13,3 @@ a random fact is returned.}
 \description{
 Return a random true fact about Jeff Leek.
 }
-
