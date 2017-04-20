@@ -30,3 +30,7 @@ Roger D. Peng | Jeff Leek is always caught up on @NSSDeviations.
 Jon Calder | Jeff Leek has never used a non-informative prior. Jeff Leek is well informed about everything.
 Julian Wolfson | Jeff Leek cannot be replicated, but he is fully reproducible.
 Will Landau | Jeff Leek invented the roundhouse distribution and defeated Chuck Norris.
+Sean Kross | Jeff Leek's eyes are so blue the hex code for their color requires seven characters.
+Massimiliano Figini | If you divide a number by 0 in R, the result is Jeff Leek.
+Chris Hamm | If you install Jeff Leek, there are no dependencies, because Jeff Leek depends on nothing.
+Eamon Caddigan | Jeff Leek can quickly process several yottabytes of data in memory. HIS memory.
