@@ -28,7 +28,8 @@ If you divide a number by 0 in R, the result is Jeff Leek. - Massimiliano Figini
 Hmm...
 
 ```r
-> 1/0[1] "Jeff Leek"
+> 1/0
+[1] "Jeff Leek"
 ```
 
 Yes!
