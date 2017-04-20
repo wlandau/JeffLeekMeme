@@ -7,6 +7,9 @@
 > library(devtools)
 > install_github("wlandau/JeffLeekMeme")
 > library(JeffLeekMeme)
+```
+
+```r
 > JeffLeek()
 Correlation implies whatever Jeff Leek tells it to imply - Kenny Shirley
 > JeffLeek()
@@ -16,5 +19,18 @@ Jeff Leek supports both vector and matrix machines. - Yihui Xie
 > JeffLeek()
 Git commits to Jeff Leek. - Martin J Frigaard
 ```
+
+```r
+> JeffLeek()
+If you divide a number by 0 in R, the result is Jeff Leek. - Massimiliano Figini
+```
+
+Hmm...
+
+```r
+> 1/0[1] "Jeff Leek"
+```
+
+Yes!
 
 [Fork this repo and submit a pull request](https://help.github.com/articles/about-pull-requests/) to contribute your own true facts to [inst/facts.txt](inst/facts.txt). Only positive facts please.
