@@ -34,3 +34,4 @@ Sean Kross | Jeff Leek's eyes are so blue the hex code for their color requires 
 Massimiliano Figini | If you divide a number by 0 in R, the result is Jeff Leek.
 Chris Hamm | If you install Jeff Leek, there are no dependencies, because Jeff Leek depends on nothing.
 Eamon Caddigan | Jeff Leek can quickly process several yottabytes of data in memory. HIS memory.
+Jonathan Hill | Jeef Leek beat a committee of machines with sheer willpower and carets.
