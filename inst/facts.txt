@@ -38,3 +38,5 @@ Niel Berg | The last time Jeff Leek executed random forest, 70% of Yellowstone f
 Jeff Allen | R Core was founded as a Jeff Leek tribute band.
 Brian Caffo | Best prediction algorithm ever created? Jeff Leek + a slide rule + 61 minutes. 1 if he's already watched this week's Bachelor.
 Jonathan Hill | Jeef Leek beat a committee of machines with sheer willpower and carets.
+Peter Dalgaard | Jeff Leek can make code work just by waiting for it!
+Eamon Caddigan | Jeff Leek can easily plot a deep neu... Oh.
