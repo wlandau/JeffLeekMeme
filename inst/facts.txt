@@ -34,3 +34,6 @@ Sean Kross | Jeff Leek's eyes are so blue the hex code for their color requires 
 Massimiliano Figini | If you divide a number by 0 in R, the result is Jeff Leek.
 Chris Hamm | If you install Jeff Leek, there are no dependencies, because Jeff Leek depends on nothing.
 Eamon Caddigan | Jeff Leek can quickly process several yottabytes of data in memory. HIS memory.
+Niel Berg | The last time Jeff Leek executed random forest, 70% of Yellowstone fell down.
+Jeff Allen | R Core was founded as a Jeff Leek tribute band.
+Brian Caffo | Best prediction algorithm ever created? Jeff Leek + a slide rule + 61 minutes. 1 if he's already watched this week's Bachelor.
