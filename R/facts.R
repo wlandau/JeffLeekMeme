@@ -12,7 +12,9 @@ file_of_facts = function(){
 #' @return \code{data.frame} of true facts about Jeff Leek
 allJeffLeek = function(){
   filename = file_of_facts()
-  read.table(filename, header = FALSE, sep = "|", stringsAsFactors = FALSE)
+  facts = read.table(filename, header = FALSE, sep = "|", stringsAsFactors = FALSE)
+  colnames(facts) = c("author", "fact")
+  facts
 }
 
 #' @title Function \code{JeffLeek}
