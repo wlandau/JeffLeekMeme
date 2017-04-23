@@ -12,7 +12,8 @@ file_of_facts = function(){
 #' @return \code{data.frame} of true facts about Jeff Leek
 allJeffLeek = function(){
   filename = file_of_facts()
-  facts = read.table(filename, header = FALSE, sep = "|", stringsAsFactors = FALSE)
+  facts = read.table(filename, header = FALSE, sep = "|", stringsAsFactors = FALSE,
+    quote = "")
   colnames(facts) = c("author", "fact")
   facts
 }
@@ -29,7 +30,7 @@ JeffLeek = function(index = numeric(0)){
     index = sample.int(records, 1)
   con = file(description = filename, open = 'r')
   fact = read.table(con, header = FALSE, sep = '|', skip = index - 1,
-    nrows = 1, stringsAsFactors = FALSE) %>%
+    nrows = 1, stringsAsFactors = FALSE, quote = "") %>%
     lapply(FUN = str_trim, side = 'both')
   close(con)
   cat(fact[[2]], ' - ', fact[[1]], '\n', sep = "")

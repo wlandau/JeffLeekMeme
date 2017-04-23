@@ -40,3 +40,4 @@ Brian Caffo | Best prediction algorithm ever created? Jeff Leek + a slide rule +
 Jonathan Hill | Jeef Leek beat a committee of machines with sheer willpower and carets.
 Peter Dalgaard | Jeff Leek can make code work just by waiting for it!
 Eamon Caddigan | Jeff Leek can easily plot a deep neu... Oh.
+Damien C. Croteau-Chonka | Jeff Leek's grants have no aims, only accomplishments.
