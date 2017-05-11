@@ -41,3 +41,8 @@ Jonathan Hill | Jeef Leek beat a committee of machines with sheer willpower and 
 Peter Dalgaard | Jeff Leek can make code work just by waiting for it!
 Eamon Caddigan | Jeff Leek can easily plot a deep neu... Oh.
 Damien C. Croteau-Chonka | Jeff Leek's grants have no aims, only accomplishments.
+Damien C. Croteau-Chonka | Jeff leek doesn't need references, papers remember him.
+Sean Kross | Even though Jeff Leek's grant applications always go over the page limit the reviewers always respond asking for more.
+Michael Hoffman | Jeff Leek has never written music for a talk. Composers write music *about* his talks.
+Chris Hamm | Actually, if you use JeffLeek::render(), it will convert all the things.
+Becky McNeil | I've heard that Jeff Leek books his JSM hotel rooms from the future, using a TARDIS.
