@@ -46,3 +46,4 @@ Sean Kross | Even though Jeff Leek's grant applications always go over the page 
 Michael Hoffman | Jeff Leek has never written music for a talk. Composers write music *about* his talks.
 Chris Hamm | Actually, if you use JeffLeek::render(), it will convert all the things.
 Becky McNeil | I've heard that Jeff Leek books his JSM hotel rooms from the future, using a TARDIS.
+Sean Kross | Despite the title "Full Professor" Jeff Leek always stays hungry!
